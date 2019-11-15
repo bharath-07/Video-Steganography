@@ -24,3 +24,8 @@ The message which is to be transmitted must be converted into one-dimension, XOR
 Then this encoded message is embedded in the scrambled video frames. These frames are reconstructed and sent to the receiver. 
 The receiver can extract information using the same key as the sender side. 
 The receiver has to disassemble the video, use XOR and hamming code to reconstruct the correct intended message.
+
+
+
+Working with the files:
+Run the file in the following order: m1.m ,m2.m, m3.m, m4.m, m5.m, m6.m
